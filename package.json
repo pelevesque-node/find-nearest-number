@@ -15,6 +15,7 @@
     "url": "git+https://github.com/pelevesque/find-nearest-number.git"
   },
   "keywords": [
+    "math",
     "number",
     "nearest"
   ],
