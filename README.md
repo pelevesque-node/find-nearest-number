@@ -8,7 +8,7 @@ Finds the nearest number of a given target number.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/find-nearest-number](https://www.npmjs.com/package/@pelevesque/find-nearest-number)
+https://www.npmjs.com/package/@pelevesque/find-nearest-number
 
 ## Installation
 
