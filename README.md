@@ -28,8 +28,11 @@ https://www.npmjs.com/package/@pelevesque/find-nearest-number
 
 ```js
 const findNearestNumber = require('@pelevesque/find-nearest-number')
-const array = [-100, -50, 0, 50, 100]
-const number = 45
-const result = findNearestNumber(array, number)
+```
+
+```js
+const num = 45
+const arr = [-100, -50, 0, 50, 100]
+const result = findNearestNumber(num, arr)
 // result === 50
 ```

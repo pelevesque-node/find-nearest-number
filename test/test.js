@@ -30,7 +30,7 @@ describe('#findNearestNumber()', () => {
       [120.55, 100]
     ]
     numTargetPairs.forEach(v => {
-      const result = findNearestNumber(arr, v[0])
+      const result = findNearestNumber(v[0], arr)
       const expected = v[1]
       expect(result).to.equal(expected)
     })
