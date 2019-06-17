@@ -1,7 +1,7 @@
 {
   "name": "@pelevesque/find-nearest-number",
   "version": "0.0.2",
-  "description": "Finds the nearest number of a given target number.",
+  "description": "Finds the nearest number in an array of a given target number.",
   "main": "index.js",
   "engines": {
     "node": ">=6.4.0"
