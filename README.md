@@ -4,7 +4,7 @@
 
 # find-nearest-number
 
-Finds the nearest number in an array of a given target number.
+Finds the nearest number of a given target number.
 
 ## Node Repository
 
